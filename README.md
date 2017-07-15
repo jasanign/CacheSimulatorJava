@@ -5,13 +5,23 @@ This program simulates the behavior of an instruction cache. This program reads 
 # Example input is below
 
 Number of sets: 2
+
 Set size: 2
+
 Line size: 8
+
 R:4:58
+
 R:4:68
+
 R:4:58
+
 R:4:68
+
 R:4:40
+
 R:4:c
+
 R:4:40
+
 R:4:48
